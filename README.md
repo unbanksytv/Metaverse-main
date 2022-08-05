@@ -1,5 +1,5 @@
 # NFT-Unity3D-Metaverse-Template
-Adv. Playground : Gallery - Customizable Unity Template
+Adv. Playground : Gallery - Customizable Unity
 
 
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat-square&logo=unity)](https://unity3d.com)
